@@ -68,6 +68,4 @@ Feel free to **fork this repository** and contribute improvements via **pull req
 This project is licensed under the **MIT License**.
 
 ---
-💡 **Author:** Your Name  
-📧 Contact: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
