@@ -35,23 +35,6 @@ This project utilizes **YOLOv8n** for **object detection in satellite images**, 
 └── README.md                              # Project documentation
 ```
 
-## 🚀 How to Run the Project
-### 1️⃣ Install Dependencies
-```bash
-pip install ultralytics opencv-python torch torchvision
-```
-
-### 2️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/YOLOv8-DOTA-Object-Detection.git
-cd YOLOv8-DOTA-Object-Detection
-```
-
-### 3️⃣ Run Jupyter Notebook
-```bash
-jupyter notebook yolov8n-dota-150epochs-final-new.ipynb
-```
-
 ## 🎯 Results & Performance
 - The model was trained for **150 epochs**, achieving **high accuracy in detecting objects in aerial images**.
 - Evaluated using **mAP** and **IoU**, optimizing detection for real-world applications.
