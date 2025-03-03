@@ -48,7 +48,7 @@ This project utilizes **YOLOv8n** for **object detection in satellite images**, 
 Feel free to **fork this repository** and contribute improvements via **pull requests**!
 
 ## 📜 License
-This project is licensed under the **MIT License**.
-
+Copyright © Ashish Asmit 2025. All rights reserved.
+This repository is proprietary. You may not use, modify, or distribute any part of it without explicit permission.
 ---
 
